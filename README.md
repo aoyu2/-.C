@@ -1,2 +1,3 @@
 # -.C
-The purpose of designing a library management system is to deepen my use of C language, improve my code writing ability and design a project
+设计图书馆管理系统的目的是进一步设计我对C语言的使用，我的代码编写能力，一个项目
+设计这个项目，需要定义两个主体，分别为书籍和读者
